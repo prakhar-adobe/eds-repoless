@@ -1,5 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p12082-e1819341.adobeaemcloud.com/bin/franklin.delivery/prakhar-adobe/eds-repoless/main"
-    type: "markup"
-    suffix: ".html"
